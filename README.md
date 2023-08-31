@@ -30,3 +30,8 @@ Video call link: [https://meet.google.com/qbz-bnsd-wrv](https://meet.google.com/
 Or dial: ‪(US) +1 651-560-5478‬ PIN: ‪427 092 357‬#
 More phone numbers: [https://tel.meet/qbz-bnsd-wrv?pin=4401189395496](https://tel.meet/qbz-bnsd-wrv?pin=4401189395496)
 
+## Contributions
+
+Any and all contributions are expected to adhere to IETF best practices and guidelines,
+especially those related to IPR as outlined [here](https://www.ietf.org/standards/ipr/) and 
+in the [note well](https://www.ietf.org/about/note-well/).
