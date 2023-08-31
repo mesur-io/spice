@@ -6,7 +6,7 @@ Secure Patterns for Internet CrEdentials
 
 There is a need to more clearly document verifiable credentials - that is 
 credentials that utilize the issuer, holder, and verifier (three party) 
-model across various work IETF, ISO, W3C, and other SDOs.  
+model across various work at the IETF, ISO, W3C, and other SDOs.  
 
 This need particularly arises in use cases for credentials that do not
 involve human-in-the-loop interactions, and  especially in the use and 
