@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- name="GENERATOR" content="github.com/mmarkdown/mmark Mmark Markdown Processor - mmark.miek.nl" -->
+<rfc version="3" ipr="trust200902" docName="draft-prorock-spice-use-cases-00" submissionType="IETF" category="info" xml:lang="en" xmlns:xi="http://www.w3.org/2001/XInclude" indexInclude="true" consensus="true">
+
+<front>
+<title abbrev="sd-cwt">Use Cases for SPICE</title><seriesInfo value="draft-prorock-spice-use-cases-00" stream="IETF" status="informational" name="Internet-Draft"></seriesInfo>
+<author initials="M." surname="Prorock" fullname="Michael Prorock"><organization>mesur.io</organization><address><postal><street></street>
+</postal><email>mprorock@mesur.io</email>
+</address></author><author initials="B." surname="Zundel" fullname="Brent Zundel"><organization>Gen Digital</organization><address><postal><street></street>
+</postal><email>Brent.Zundel@gendigital.com</email>
+</address></author><date/>
+<area>Internet</area>
+<workgroup>None</workgroup>
+<keyword>SPICE</keyword>
+
+<abstract>
+<t>This document describes various use cases related to credential exchange
+in a three party model (issuer, holder, verifier). These use cases aid
+in the identification of which Secure Patterns for Internet CrEdentials
+(SPICE) are most in need of specification or detailed documentation.</t>
+</abstract>
+
+</front>
+
+<middle>
+
+<section anchor="notational-conventions"><name>Notational Conventions</name>
+<t>The key words &quot;<bcp14>MUST</bcp14>&quot;, &quot;<bcp14>MUST NOT</bcp14>&quot;, &quot;<bcp14>REQUIRED</bcp14>&quot;, &quot;<bcp14>SHALL</bcp14>&quot;, &quot;<bcp14>SHALL NOT</bcp14>&quot;, &quot;<bcp14>SHOULD</bcp14>&quot;,
+&quot;<bcp14>SHOULD NOT</bcp14>&quot;, &quot;<bcp14>RECOMMENDED</bcp14>&quot;, &quot;<bcp14>MAY</bcp14>&quot;, and &quot;<bcp14>OPTIONAL</bcp14>&quot; in this
+document are to be interpreted as described in <xref target="RFC2119"></xref>.</t>
+</section>
+
+<section anchor="spice-use-cases"><name>SPICE Use Cases</name>
+</section>
+
+<section anchor="introduction"><name>Introduction</name>
+<t>There are several expanding use cases and common patterns that motivate the working group and broader community, including:</t>
+
+<ul spacing="compact">
+<li>Use of microcredentials, particularly in education</li>
+<li><t>Digitization of physical supply chain credentials in multiple jurisdictions</t>
+
+<ul spacing="compact">
+<li>CBOR credentials</li>
+<li>High volume with system to system exchange of credentions</li>
+<li>both regulatory data as well as business driven information</li>
+</ul></li>
+<li>IoT, Control Systems, and Critical Infrastructure related Credentials</li>
+<li>Credentials related to authenticity and provenance, especially of digital media</li>
+<li>Offline exchange (in person) of credentials that may have been internet issued</li>
+<li>Embedding of credentials in other data formats</li>
+<li>Digital Wallet Initiatives</li>
+<li>Selective disclosure with CBOR</li>
+</ul>
+</section>
+
+<section anchor="details-on-each-use-case"><name>Details on Each Use Case</name>
+<t>TBD</t>
+</section>
+
+<section anchor="security-considerations"><name>Security Considerations</name>
+<t>TBD</t>
+</section>
+
+<section anchor="iana-considerations"><name>IANA Considerations</name>
+<t>NONE</t>
+</section>
+
+<section anchor="acknowledgements"><name>Acknowledgements</name>
+<t>The authors would like to thank those that have worked on similar items
+and/or whom have provided input into this document, especially: Hannes
+Tschofenig, Henk Birkholz, Heather Flanagan, Kaliya Young, Orie Steele,
+Leif Johansson, Pamela Dingle, Tobias Looker, Kristina Yasuda, Daniel
+Fett, Oliver Terbu, and Michael Jones.</t>
+</section>
+
+</middle>
+
+<back>
+<references><name>Normative References</name>
+<xi:include href="https://xml2rfc.ietf.org/public/rfc/bibxml/reference.RFC.2119.xml"/>
+</references>
+
+</back>
+
+</rfc>
