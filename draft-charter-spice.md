@@ -48,7 +48,9 @@ Documents produced by the working group will include the following:
 ## Milestones
 
 MM YYYY - Submit a Use Case and Terminology document to the IESG for publication
+
 MM YYYY - Submit an Architecture document to the IESG for publication
+
 MM YYYY - Submit a document covering selective disclosure with COSE to the IESG for publication
 
 ## Why IETF
