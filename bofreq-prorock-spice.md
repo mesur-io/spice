@@ -71,7 +71,7 @@ To allow evaluation of your proposal, please include the following items:
 ## Links to the mailing list, draft charter if any, relevant Internet-Drafts, etc.
 
 - Mailing List: TBD (requested: https://www.ietf.org/mailman/listinfo/spice)
-- Draft charter: https://docs.google.com/document/d/1-5N8Wc-0RmXUDWhUbxCL2UMbn7X9UVnH_NCcBh6DZWY/edit 
+- Draft charter: https://github.com/mesur-io/spice/blob/main/draft-charter-spice.md
 - Relevant Internet-Drafts:
   - Use Cases:
     - https://datatracker.ietf.org/doc/draft-prorock-spice-use-cases/
