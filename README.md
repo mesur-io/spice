@@ -30,13 +30,9 @@ We currently meet Thursdays:
 
 ### Time
 
-EDT/EST, Eastern Daylight Time (US) at 12:00p
-
-
-DENVER, United States, Colorado (US) at 10:00a
-
-
-LONDON, United Kingdom, England at 5:00p
+EDT/EST, Eastern Daylight Time (US) at 12:00p  
+DENVER, United States, Colorado (US) at 10:00a  
+LONDON, United Kingdom, England at 5:00p  
 
 ### Connection Info
 
