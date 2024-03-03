@@ -68,8 +68,8 @@ supporting mechanisms.
 Within SPICE there are a few common patterns that continually arise:
 
 - A need for selective disclosure with CBOR based verifiable credentials
-- Cryptographic agility support via COSE, especially for PQC, and to
-  permit use of the same signature algorithms with both selective
+- Cryptographic agility support via COSE, including support for PQC, and
+  to permit use of the same signature algorithms with both selective
   disclosure as well as fully disclosed credentials
 - Required strong and long lived identities that are correlated with
   public key material for verifiacation and permit binding to DNS,
@@ -97,6 +97,14 @@ the working group and broader community, including:
 
 # Use Case Discussion
 
+## Roles
+
+An "issuer", an entity (person, device, organization, or software agent) that constructs and secures digital credentials.
+
+A "holder", an entity (person, device, organization, or software agent) that controls the disclosure of credentials.
+
+A "verifier", an entity (person, device, organization, or software agent) that verifies and validates secured digital credentials.
+
 ## Physical Supply Chain Credentials
 
 Physical supply chain credentials create several unique scenarios and
@@ -122,8 +130,8 @@ Common use cases for physical supply chains include:
   supplier for Company X
 - Passing of data between multiple intermediaries, before being sent
   along to customs agencies or consignees.
-- Moving large amounts of data asyncronously, and bi-directionally over
-  a network channel
+- Moving large amounts of signed data asyncronously, and bi-directionally
+  over a network channel
 - Identifying actors in a supply chain and linking them with legal
   entity information
 
